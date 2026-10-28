@@ -1,0 +1,4 @@
+Flask>=3.0.0
+yt-dlp
+cloudinary>=1.41.0
+gunicorn>=22.0.0
